@@ -1,0 +1,36 @@
+
+h3{
+    margin-left: 2%;
+    margin-top: 2%;
+}
+.c2{
+    margin-left: 18rem;
+    margin-top: -2.5rem;
+}
+.c3{
+    margin: 0;
+}
+a{
+    text-decoration: none;
+    color: black;
+    padding: 2%;   
+}
+.img1{
+    margin-left: 20rem;
+    
+}
+.img2{
+    margin-left: -55rem;
+    opacity: 25%;
+    width: 8rem;
+    height: 6rem;
+    margin-top: -250px;
+}
+.c4{
+    width: 32rem;
+    height: 16rem;
+    background-color: rgba(231, 226, 226, 0.712);
+    margin-top:-400px ;
+    margin-left: 6rem;
+    box-shadow: 12px 12px 12px 12px  beige;    
+}
